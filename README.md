@@ -43,3 +43,6 @@ Build a fully accessible and semantic portfolio website adhering to modern HTML5
 ## 📌 Task
 
 **Task 1 - HTML5 Semantic Structure & Accessibility**
+
+##Live Demo https://thiranex-portfolio-blond.vercel.app/
+
